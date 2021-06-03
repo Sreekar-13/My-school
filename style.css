@@ -31,3 +31,18 @@ input
 .environment_li p{
     margin-top: 10px;
 }
+.book{
+    cursor: pointer;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.img_modal{
+    display: inline-block;
+}
+.p_modal{
+    margin-top: 10px;
+}
+.list-group{
+    margin-bottom: 300px;
+}
